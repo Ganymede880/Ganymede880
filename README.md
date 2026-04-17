@@ -8,14 +8,6 @@ I am a Mathematics & Econometrics student at Claremont McKenna College and incom
 * Signal construction using alternative and market data
 * Empirical asset pricing and predictive modeling
 
-## Selected work
-
-* **Structural Credit Model (Thesis)**
-  Built a hybrid implied/historical volatility DD model across 460K+ firm-month observations; demonstrated statistically significant AUC improvements and robustness across market regimes
-
-* **Equity Signal Research (Citadel)**
-  Developed multi-factor signals using commodity, macro, and company data driving real capital allocation
-
 ## Technical skills
 
 * Python (pandas, numpy, scikit-learn, statsmodels)
