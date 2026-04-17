@@ -4,7 +4,7 @@ I am a Mathematics & Econometrics student at Claremont McKenna College and incom
 
 ## What I am working on
 
-* Structural credit risk modeling (Merton framework, distance-to-default)
+* Structural credit risk modeling
 * Signal construction using alternative and market data
 * Empirical asset pricing and predictive modeling
 
