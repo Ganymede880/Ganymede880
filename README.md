@@ -10,7 +10,7 @@ I am a Mathematics & Econometrics student at Claremont McKenna College and incom
 
 ## Interests
 
-Long/short equities, systematic investing, market microstructure, and applying quantitative methods to real-world investment problems
+Long/short equities, systematic investing, game theory, and applying quantitative methods to real-world investment problems
 
 ---
 
